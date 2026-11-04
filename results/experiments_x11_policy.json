@@ -1,0 +1,13 @@
+{
+ "policy": {
+  "CONF_LOW": 0.6,
+  "RTT_MAX_ms": 500.0,
+  "BAT_LOW": 0.2
+ },
+ "counts": {
+  "edge": 390267,
+  "fog": 2565
+ },
+ "edge_conf_lt_0.6_pct": 0.65,
+ "note": "escalated windows go to the Fog; low-battery windows use alerts only"
+}

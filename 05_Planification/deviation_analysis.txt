@@ -1,0 +1,12 @@
+Planned vs actual deviation analysis
+=====================================
+- Data generation: started as planned (M1 week), finished 1 day after
+  the planned window because two generator bugs (WNTR demand sign
+  convention, leak area calibration) required a full re-run.
+- Edge firmware: finished 1 day EARLY thanks to the micromlgen export
+  passing the PC-vs-C consistency check first try.
+- AI models: finished 3 days early; the fog-localizer baseline bug
+  (signed vs absolute residual cosine) was fixed inside the window.
+- Critical path unchanged: experiments -> report -> ZIP (M3 -> final).
+- Buffer remaining for the human steps: Wokwi publication, video,
+  registration e-mail, final submission (agent cannot perform these).

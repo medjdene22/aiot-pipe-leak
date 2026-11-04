@@ -1,0 +1,53 @@
+[model] hot-reload /home/work/.openclaw/workspace/SEI2027_Equipe-XX/02_Code_Source/ia/models/fog_model_mlp_kall.joblib -> fog-v1793479225
+[fog] service started
+[mqtt] connected rc=Success
+[status] node=node3: online
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[alert] node=node3 conf=0.91 mv=edge-v1
+[status] node=node3: offline
+[status] node=node4: online
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[alert] node=node4 conf=0.91 mv=edge-v1
+[status] node=node4: offline

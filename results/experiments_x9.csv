@@ -1,0 +1,6 @@
+experiment,scenario,item,cost_da,label,source
+X9,S1 all-Cloud,31x ESP32 node,77500,[E],"ESP32 DevKitC retail, [UNVERIFIED]"
+X9,S1 all-Cloud,cloud VM (2 vCPU),4000,[E],"VPS market avg, [UNVERIFIED]"
+X9,S2 Fog,31x ESP32 + RPi3 fog,102500,[E],"RPi3 retail, [UNVERIFIED]"
+X9,S3 Edge-triggered-Fog,31x ESP32 + RPi3 fog + small VM,104500,[E],"reduced cloud usage, [UNVERIFIED]"
+X9,S4 dynamic hybrid,same as S3 (software-only difference),104500,[E],"software-only innovation, [UNVERIFIED]"

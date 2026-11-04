@@ -1,0 +1,5 @@
+scenario,accuracy_f1,latency_mean_ms,latency_std_ms,bytes_per_min,mAh_per_day,cost_da,label
+S1 all-Cloud,0.9784,21.1,15.1,35.2,34.51,81500.0,"latency [M] network+fog, [I] edge; energy/cost [E]"
+S2 Fog,0.9784,5.4,15.3,35.2,34.51,102500.0,"latency [M] network+fog, [I] edge; energy/cost [E]"
+S3 Edge-triggered-Fog,0.9784,72.9,23.2,7.9,24.3,104500.0,"latency [M] network+fog, [I] edge; energy/cost [E]"
+S4 dynamic hybrid,0.9784,60.3,34.3,,25.05,104500.0,"latency [M] network+fog, [I] edge; energy/cost [E]"

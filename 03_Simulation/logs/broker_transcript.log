@@ -1,0 +1,194 @@
+# verbose MQTT transcript (2026-11-03 03:56:19) # amqtt sandbox broker; deliverable uses Mosquitto (docker-compose)
+m2i2a/equipeXX/fog/status {"status": "online", "ts": 1793649387574, "mv": "fog-v1793479225"}
+m2i2a/equipeXX/edge/node3/status {"status": "online", "ts": 1793649394461, "id": 3}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394461, "p": 31.22, "dp": 0.04, "q": 2599.66, "vib": 0.0077, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394461, "p": 31.19, "dp": 0.0, "q": 2606.11, "vib": 0.005, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.21, "dp": 0.03, "q": 2620.89, "vib": 0.0049, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.2, "dp": 0.02, "q": 2620.73, "vib": 0.0085, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.05, "dp": -0.13, "q": 2616.5, "vib": 0.0057, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.24, "dp": 0.05, "q": 2588.84, "vib": 0.0052, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.15, "dp": -0.03, "q": 2624.97, "vib": 0.0029, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.21, "dp": 0.03, "q": 2609.16, "vib": 0.0038, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.16, "dp": -0.02, "q": 2606.05, "vib": 0.0021, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.12, "dp": -0.06, "q": 2598.03, "vib": 0.0067, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.16, "dp": -0.02, "q": 2613.01, "vib": 0.006, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.18, "dp": 0.0, "q": 2602.19, "vib": 0.0044, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.21, "dp": 0.03, "q": 2608.98, "vib": 0.0054, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394462, "p": 31.16, "dp": -0.03, "q": 2572.08, "vib": 0.0039, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.22, "dp": 0.04, "q": 2618.15, "vib": 0.005, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.12, "dp": -0.07, "q": 2611.09, "vib": 0.0051, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.16, "dp": -0.02, "q": 2606.13, "vib": 0.0072, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.13, "dp": -0.06, "q": 2614.83, "vib": 0.0037, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.19, "dp": 0.01, "q": 2604.75, "vib": 0.0053, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.16, "dp": -0.02, "q": 2607.2, "vib": 0.0034, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.2, "dp": 0.01, "q": 2608.32, "vib": 0.0033, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.21, "dp": 0.03, "q": 2608.8, "vib": 0.0026, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.1, "dp": -0.08, "q": 2592.51, "vib": 0.0044, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.24, "dp": 0.06, "q": 2612.1, "vib": 0.0043, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394463, "p": 31.18, "dp": -0.0, "q": 2633.55, "vib": 0.0051, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.12, "dp": -0.06, "q": 2602.27, "vib": 0.0053, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.25, "dp": 0.07, "q": 2592.51, "vib": 0.0065, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.14, "dp": -0.04, "q": 2593.21, "vib": 0.0061, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.19, "dp": 0.01, "q": 2609.98, "vib": 0.0063, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.15, "dp": -0.03, "q": 2609.31, "vib": 0.0039, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.15, "dp": -0.04, "q": 2618.16, "vib": 0.0077, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.18, "dp": -0.01, "q": 2607.29, "vib": 0.0028, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.18, "dp": -0.0, "q": 2599.13, "vib": 0.0062, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.24, "dp": 0.06, "q": 2621.35, "vib": 0.0067, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.14, "dp": -0.04, "q": 2599.44, "vib": 0.0057, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.11, "dp": -0.08, "q": 2607.39, "vib": 0.0032, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394464, "p": 31.12, "dp": -0.06, "q": 2603.48, "vib": 0.0084, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394464, "p": 31.12, "dp": -0.06, "q": 2603.48, "vib": 0.0084, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394509, "p": 28.85, "dp": -2.33, "q": 2632.3, "vib": 0.264, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394509, "p": 28.85, "dp": -2.33, "q": 2632.3, "vib": 0.264, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394556, "p": 28.84, "dp": -2.34, "q": 2661.98, "vib": 0.2637, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394556, "p": 28.84, "dp": -2.34, "q": 2661.98, "vib": 0.2637, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394605, "p": 28.85, "dp": -2.33, "q": 2667.62, "vib": 0.2603, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394605, "p": 28.85, "dp": -2.33, "q": 2667.62, "vib": 0.2603, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394653, "p": 28.86, "dp": -2.33, "q": 2654.08, "vib": 0.2622, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394653, "p": 28.86, "dp": -2.33, "q": 2654.08, "vib": 0.2622, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394697, "p": 28.78, "dp": -2.4, "q": 2644.03, "vib": 0.2605, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394697, "p": 28.78, "dp": -2.4, "q": 2644.03, "vib": 0.2605, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394745, "p": 28.76, "dp": -2.42, "q": 2656.81, "vib": 0.2653, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649394464, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394745, "p": 28.76, "dp": -2.42, "q": 2656.81, "vib": 0.2653, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649394509, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649394556, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394788, "p": 28.86, "dp": -2.32, "q": 2643.04, "vib": 0.2673, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649394605, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649394653, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649394697, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649394745, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394788, "p": 28.86, "dp": -2.32, "q": 2643.04, "vib": 0.2673, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394832, "p": 28.72, "dp": -2.47, "q": 2659.66, "vib": 0.2588, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649394788, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394832, "p": 28.72, "dp": -2.47, "q": 2659.66, "vib": 0.2588, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394877, "p": 28.77, "dp": -2.42, "q": 2677.93, "vib": 0.2629, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649394832, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394877, "p": 28.77, "dp": -2.42, "q": 2677.93, "vib": 0.2629, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394920, "p": 28.86, "dp": -2.33, "q": 2643.14, "vib": 0.2628, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649394877, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394920, "p": 28.86, "dp": -2.33, "q": 2643.14, "vib": 0.2628, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node3/telemetry {"id": 3, "ts": 1793649394964, "p": 28.79, "dp": -2.39, "q": 2647.3, "vib": 0.2625, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649394920, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/edge/node3/alert {"id": 3, "ts": 1793649394964, "p": 28.79, "dp": -2.39, "q": 2647.3, "vib": 0.2625, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649394964, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node3", "missing_sensors"
+m2i2a/equipeXX/edge/node3/status {"status": "offline", "ts": 1793649396008, "id": 3}
+m2i2a/equipeXX/edge/node4/status {"status": "online", "ts": 1793649401406, "id": 4}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649401407, "p": 26.76, "dp": 0.02, "q": 2134.32, "vib": 0.0049, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649401407, "p": 26.72, "dp": -0.02, "q": 2139.62, "vib": 0.0037, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649401407, "p": 26.79, "dp": 0.05, "q": 2124.53, "vib": 0.0054, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649401407, "p": 26.67, "dp": -0.06, "q": 2122.06, "vib": 0.0059, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649401407, "p": 26.66, "dp": -0.08, "q": 2121.64, "vib": 0.0031, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649401407, "p": 26.65, "dp": -0.08, "q": 2116.42, "vib": 0.0068, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409408, "p": 26.66, "dp": -0.08, "q": 2119.71, "vib": 0.0067, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 26.74, "dp": 0.01, "q": 2130.7, "vib": 0.0044, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 26.66, "dp": -0.08, "q": 2128.97, "vib": 0.0068, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 26.59, "dp": -0.15, "q": 2136.55, "vib": 0.0041, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 26.68, "dp": -0.05, "q": 2141.57, "vib": 0.0026, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 26.58, "dp": -0.15, "q": 2124.28, "vib": 0.004, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 26.7, "dp": -0.04, "q": 2133.23, "vib": 0.0051, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 26.73, "dp": -0.0, "q": 2136.34, "vib": 0.007, "y": 0, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 23.42, "dp": -3.31, "q": 2211.17, "vib": 0.273, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409409, "p": 23.42, "dp": -3.31, "q": 2211.17, "vib": 0.273, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 20.15, "dp": -6.58, "q": 2299.5, "vib": 0.3822, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409409, "p": 20.15, "dp": -6.58, "q": 2299.5, "vib": 0.3822, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409409, "p": 20.19, "dp": -6.55, "q": 2292.5, "vib": 0.3808, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409409, "p": 20.19, "dp": -6.55, "q": 2292.5, "vib": 0.3808, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409410, "p": 20.2, "dp": -6.54, "q": 2305.94, "vib": 0.3843, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409410, "p": 20.2, "dp": -6.54, "q": 2305.94, "vib": 0.3843, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409410, "p": 20.22, "dp": -6.52, "q": 2291.99, "vib": 0.3856, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409410, "p": 20.22, "dp": -6.52, "q": 2291.99, "vib": 0.3856, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409410, "p": 20.16, "dp": -6.57, "q": 2308.42, "vib": 0.3851, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409410, "p": 20.16, "dp": -6.57, "q": 2308.42, "vib": 0.3851, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409410, "p": 20.1, "dp": -6.63, "q": 2298.09, "vib": 0.3848, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409410, "p": 20.1, "dp": -6.63, "q": 2298.09, "vib": 0.3848, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409410, "p": 20.19, "dp": -6.55, "q": 2296.47, "vib": 0.385, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409410, "p": 20.19, "dp": -6.55, "q": 2296.47, "vib": 0.385, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.23, "dp": -6.51, "q": 2309.5, "vib": 0.3818, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.23, "dp": -6.51, "q": 2309.5, "vib": 0.3818, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.06, "dp": -6.67, "q": 2310.69, "vib": 0.385, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.06, "dp": -6.67, "q": 2310.69, "vib": 0.385, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.27, "dp": -6.47, "q": 2305.66, "vib": 0.3835, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.27, "dp": -6.47, "q": 2305.66, "vib": 0.3835, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.22, "dp": -6.51, "q": 2298.04, "vib": 0.3827, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.22, "dp": -6.51, "q": 2298.04, "vib": 0.3827, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.09, "dp": -6.64, "q": 2326.82, "vib": 0.3849, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.09, "dp": -6.64, "q": 2326.82, "vib": 0.3849, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.24, "dp": -6.49, "q": 2289.63, "vib": 0.3851, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.24, "dp": -6.49, "q": 2289.63, "vib": 0.3851, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.17, "dp": -6.57, "q": 2316.29, "vib": 0.3811, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649409409, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.17, "dp": -6.57, "q": 2316.29, "vib": 0.3811, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.2, "dp": -6.54, "q": 2296.37, "vib": 0.3853, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.2, "dp": -6.54, "q": 2296.37, "vib": 0.3853, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.09, "dp": -6.65, "q": 2324.87, "vib": 0.3848, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.09, "dp": -6.65, "q": 2324.87, "vib": 0.3848, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.14, "dp": -6.6, "q": 2302.75, "vib": 0.385, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.14, "dp": -6.6, "q": 2302.75, "vib": 0.385, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409411, "p": 20.1, "dp": -6.64, "q": 2285.59, "vib": 0.3855, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409411, "p": 20.1, "dp": -6.64, "q": 2285.59, "vib": 0.3855, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.24, "dp": -6.49, "q": 2312.78, "vib": 0.3819, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.24, "dp": -6.49, "q": 2312.78, "vib": 0.3819, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.11, "dp": -6.63, "q": 2312.51, "vib": 0.386, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.11, "dp": -6.63, "q": 2312.51, "vib": 0.386, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.16, "dp": -6.57, "q": 2290.78, "vib": 0.3862, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.16, "dp": -6.57, "q": 2290.78, "vib": 0.3862, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.2, "dp": -6.54, "q": 2323.18, "vib": 0.3814, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.2, "dp": -6.54, "q": 2323.18, "vib": 0.3814, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.07, "dp": -6.66, "q": 2278.27, "vib": 0.3808, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.07, "dp": -6.66, "q": 2278.27, "vib": 0.3808, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.18, "dp": -6.56, "q": 2302.92, "vib": 0.3834, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.18, "dp": -6.56, "q": 2302.92, "vib": 0.3834, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.21, "dp": -6.52, "q": 2289.09, "vib": 0.3835, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.21, "dp": -6.52, "q": 2289.09, "vib": 0.3835, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.13, "dp": -6.61, "q": 2302.68, "vib": 0.3826, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.13, "dp": -6.61, "q": 2302.68, "vib": 0.3826, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.11, "dp": -6.63, "q": 2310.52, "vib": 0.3861, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649409409, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.11, "dp": -6.63, "q": 2310.52, "vib": 0.3861, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649409409, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409412, "p": 20.07, "dp": -6.67, "q": 2292.38, "vib": 0.3901, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409412, "p": 20.07, "dp": -6.67, "q": 2292.38, "vib": 0.3901, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649409410, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409413, "p": 20.13, "dp": -6.61, "q": 2294.57, "vib": 0.3843, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409413, "p": 20.13, "dp": -6.61, "q": 2294.57, "vib": 0.3843, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409413, "p": 20.11, "dp": -6.63, "q": 2310.85, "vib": 0.3866, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409413, "p": 20.11, "dp": -6.63, "q": 2310.85, "vib": 0.3866, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409413, "p": 20.12, "dp": -6.62, "q": 2304.93, "vib": 0.3804, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409413, "p": 20.12, "dp": -6.62, "q": 2304.93, "vib": 0.3804, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409413, "p": 20.06, "dp": -6.68, "q": 2297.01, "vib": 0.3861, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409413, "p": 20.06, "dp": -6.68, "q": 2297.01, "vib": 0.3861, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/telemetry {"id": 4, "ts": 1793649409413, "p": 20.19, "dp": -6.54, "q": 2303.08, "vib": 0.3858, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/edge/node4/alert {"id": 4, "ts": 1793649409413, "p": 20.19, "dp": -6.54, "q": 2303.08, "vib": 0.3858, "y": 1, "conf": 0.91, "mv": "edge-v1"}
+m2i2a/equipeXX/fog/localization {"ts": 1793649409410, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409410, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409410, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409410, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409411, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409412, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409413, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409413, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409413, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409413, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/fog/localization {"ts": 1793649409413, "topk": ["0", "31", "30"], "probs": [0.9746, 0.0099, 0.0078], "model_version": "fog-v1793479225", "alert_node": "node4", "missing_sensors"
+m2i2a/equipeXX/edge/node4/status {"status": "offline", "ts": 1793649410413, "id": 4}

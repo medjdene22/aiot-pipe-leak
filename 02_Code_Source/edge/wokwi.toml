@@ -1,0 +1,12 @@
+[wokwi]
+version = 1
+firmware = ".pio/build/esp32dev/firmware.elf"
+elf = ".pio/build/esp32dev/firmware.elf"
+
+[[dependencies]]
+name = "PubSubClient"
+version = "2.8.0"
+
+[[dependencies]]
+name = "ArduinoJson"
+version = "7.0.4"

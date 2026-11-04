@@ -1,0 +1,160 @@
+Exception in thread Thread-1 (_ingest_worker):
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/work/.openclaw/workspace/SEI2027_Equipe-XX/02_Code_Source/cloud/cloud_api.py", line 52, in _ingest_worker
+    con = db()
+          ^^
+NameError: name 'db' is not defined
+INFO:     Started server process [6874]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     127.0.0.1:52606 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52618 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52626 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52632 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52640 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52650 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52658 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52664 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52672 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52682 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52688 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52700 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52714 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52718 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52728 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52730 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52738 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52754 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52766 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52772 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52780 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52790 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52794 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52806 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52810 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52822 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52838 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52850 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52866 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52880 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52896 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52908 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52914 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60090 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60106 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60112 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60114 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60120 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60130 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60140 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60144 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60156 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60172 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60176 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60192 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60198 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60212 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60226 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60238 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60240 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60250 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60262 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60274 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60280 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60294 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60310 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60312 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60316 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60328 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60342 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60354 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60356 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60362 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60366 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60372 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60386 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60390 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60404 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60408 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60424 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60440 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60446 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60452 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60576 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60580 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60590 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60600 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60602 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60610 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60618 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60620 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60634 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60646 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60660 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60676 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60690 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60704 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60718 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60734 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60740 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60756 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60766 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60768 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60774 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60788 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60804 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60814 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60828 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60832 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60842 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60848 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60858 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60864 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60866 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60882 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60886 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60888 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60898 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60904 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60912 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60928 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60936 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60948 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59846 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59848 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59852 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59866 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59874 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59882 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59884 - "GET /api/modele/latest HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59898 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59904 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59920 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59924 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59938 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59946 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59950 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59962 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59976 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59982 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59998 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60008 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60014 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60016 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60024 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60040 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60056 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60062 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60074 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60088 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60092 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60100 - "POST /api/mesures HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [6874]

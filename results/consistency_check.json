@@ -1,0 +1,9 @@
+{
+ "n_samples": 500,
+ "sklearn_accuracy_vs_labels": 0.968,
+ "c_model_accuracy_vs_labels": 0.968,
+ "pc_vs_c_mismatches": 0,
+ "consistent": true,
+ "max_conf_diff_hard_votes": 0.0,
+ "note": "C confidence = tree hard-vote fraction; sklearn predict_proba = soft leaf fraction (documented difference)"
+}

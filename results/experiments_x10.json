@@ -1,0 +1,19 @@
+{
+ "psi_drifted": {
+  "psi_per_feature": [
+   0.0219,
+   2.1086,
+   0.0052,
+   0.0019
+  ],
+  "drift_score": 2.1086,
+  "n_recent": 5000
+ },
+ "threshold": 0.2,
+ "drift_detected": true,
+ "fog_top1_old_model_on_drift": 0.4361,
+ "fog_top1_retrained_on_drift": 1.0,
+ "retraining_gain": 0.5639,
+ "label": "[M]",
+ "criterion": "PSI > 0.2 triggers retraining"
+}

@@ -1,0 +1,72 @@
+# Edge -> Fog -> Cloud stack for the water-network leak project (E4/E5/E6).
+# Usage: cp .env.example .env   # fill values
+#        ./setup_auth.sh        # generate mosquitto passwd + acl
+#        docker compose up -d --build
+
+services:
+  mosquitto:
+    image: eclipse-mosquitto:2
+    container_name: mosquitto
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./fog/mosquitto/config:/mosquitto/config
+      - mosquitto_data:/mosquitto/data
+    restart: unless-stopped
+
+  fog:
+    build:
+      context: ..
+      dockerfile: 02_Code_Source/fog/Dockerfile
+    container_name: fog_service
+    depends_on:
+      - mosquitto
+    environment:
+      MQTT_HOST: mosquitto
+      MQTT_PORT: "1883"
+      MQTT_USER: ${FOG_USER}
+      MQTT_PASSWORD: ${FOG_PASSWORD}
+      TEAM_ID: ${TEAM_ID}
+      CLOUD_URL: ${CLOUD_URL}
+      FOG_DB: /data/${FOG_DB}
+      DRIFT_PSI_THRESHOLD: ${DRIFT_PSI_THRESHOLD}
+    volumes:
+      - fog_data:/data
+      - ../ia/models:/models:ro
+    restart: unless-stopped
+
+  cloud:
+    build:
+      context: ..
+      dockerfile: 02_Code_Source/cloud/Dockerfile
+    container_name: cloud_service
+    ports:
+      - "8000:8000"
+    environment:
+      CLOUD_DB: /data/${CLOUD_DB}
+      TEAM_ID: ${TEAM_ID}
+    volumes:
+      - cloud_data:/data
+      - ../ia/models:/models
+    restart: unless-stopped
+
+  dashboard:
+    build:
+      context: ..
+      dockerfile: 02_Code_Source/fog/dashboard/Dockerfile
+    container_name: dashboard
+    ports:
+      - "8501:8501"
+    environment:
+      FOG_DB: /data/${FOG_DB}
+      CLOUD_URL: ${CLOUD_URL}
+    volumes:
+      - fog_data:/data:ro
+    depends_on:
+      - fog
+    restart: unless-stopped
+
+volumes:
+  mosquitto_data:
+  fog_data:
+  cloud_data:

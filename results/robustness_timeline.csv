@@ -1,0 +1,4 @@
+event,t_start_s,t_end_s,metric,label
+broker stop/restart,49.4,57.0,node msgs sent=13 lost=94; fog measurements 112->112; broker restart+reconnect 1.5s,[M]
+cloud link outage,57.0,99.5,buffer 0->13->0; flush 29.9s,[M]
+node9 drop,99.5,100.3,"node SIGKILL; fog detects offline via LWT/keepalive (30 s keepalive), messages in flight dropped (QoS0)",[M]

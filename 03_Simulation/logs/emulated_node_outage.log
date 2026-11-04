@@ -1,0 +1,12 @@
+[outage] start (8.0s)
+[cmd] m2i2a/equipeXX/fog/status: {"status": "online", "ts": 1793649387574, "mv": "fog-v1793479225"}
+[cmd] m2i2a/equipeXX/edge/node3/status: {"status": "offline", "ts": 1793649396008, "id": 3}
+[cmd] m2i2a/equipeXX/edge/node3/status: {"status": "offline", "ts": 1793649396008, "id": 3}
+[outage] end - flushing buffer
+{
+ "sent": 47,
+ "alerts": 34,
+ "puback": 84,
+ "buffered": 1,
+ "flushed": 1
+}

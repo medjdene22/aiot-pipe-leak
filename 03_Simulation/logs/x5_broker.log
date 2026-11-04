@@ -1,0 +1,3 @@
+[broker] amqtt listening on 127.0.0.1:18830
+No data from (client @=127.0.0.1:49724) : No data to decode MQTT packet fixed header
+Failed to initialize client session: No data to decode MQTT packet fixed header

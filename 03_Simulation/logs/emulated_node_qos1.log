@@ -1,0 +1,8 @@
+[cmd] m2i2a/equipeXX/fog/status: {"status": "online", "ts": 1793649387574, "mv": "fog-v1793479225"}
+{
+ "sent": 48,
+ "alerts": 12,
+ "puback": 62,
+ "buffered": 0,
+ "flushed": 0
+}

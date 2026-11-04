@@ -1,0 +1,5 @@
+experiment,scenario,msgs_per_day,active_s,mAh_per_day,method,label
+X8,S1 all-Cloud,288,230.4,34.51,I_tx*t_tx + I_light*t_light (ESP32 datasheet),[E]
+X8,S2 Fog,288,230.4,34.51,I_tx*t_tx + I_light*t_light (ESP32 datasheet),[E]
+X8,S3 Edge-triggered-Fog,96,76.8,24.3,I_tx*t_tx + I_light*t_light (ESP32 datasheet),[E]
+X8,S4 dynamic hybrid,110,88.0,25.05,I_tx*t_tx + I_light*t_light (ESP32 datasheet),[E]

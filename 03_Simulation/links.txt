@@ -1,0 +1,5 @@
+Public links (verify they open WITHOUT login before submission - Annex D):
+
+Wokwi project : <TO BE FILLED - publish in Wokwi, paste link>
+GitHub repo   : <TO BE FILLED>
+Google Drive  : <TO BE FILLED (demo video + full dataset)>

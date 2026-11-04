@@ -1,0 +1,21 @@
+{
+ "seed": 42,
+ "n_scenarios": 1320,
+ "n_leak": 1240,
+ "n_free": 80,
+ "n_windows": 1964160,
+ "n_net_windows": 63360,
+ "y_global_pos": 1044514,
+ "y_local_pos": 33694,
+ "sigma_p": 0.15,
+ "sigma_q_floor": 0.1,
+ "sigma_q_rel": 0.01,
+ "vib_k": 0.02,
+ "sigma_v": 0.005,
+ "leak_frac_range": [
+  0.01,
+  0.1
+ ],
+ "window": 6,
+ "runtime_s": 157.3
+}

@@ -1,0 +1,10 @@
+{
+  "project": "Edge-Fog-Cloud Water-Network Leak Detection and Localization",
+  "team": "Equipe-XX (replace with team number)",
+  "seed": 42,
+  "created_utc": "2026-11-01",
+  "python": "3.12",
+  "network": "Hanoi benchmark (31 demand nodes + 1 reservoir, 34 pipes)",
+  "simulator": "WNTR 1.x (EPANET engine)",
+  "notes": "All experiments fix SEED=42. Train/val/test split is by leak scenario (whole scenarios in one split only)."
+}

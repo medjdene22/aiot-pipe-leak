@@ -1,0 +1,7 @@
+experiment,item,value,unit,label
+X2,model.h source size,115222,bytes,[M]
+X2,tree nodes (8 trees),852,nodes,[M]
+X2,estimated flash (16 B/node + glue),13832,bytes,[E]
+X2,estimated static RAM (features+votes),96,bytes,[E]
+X2,x86 .text of same model.h (indicative),7035,bytes,[I]
+X2,ESP32 budget,532480,bytes RAM,[E]

@@ -1,0 +1,32 @@
+{
+ "summary_ms": {
+  "S1 all-Cloud": {
+   "mean": 21.09,
+   "std": 15.13,
+   "reps": 120
+  },
+  "S2 Fog": {
+   "mean": 5.43,
+   "std": 15.28,
+   "reps": 120
+  },
+  "S3 Edge-triggered-Fog": {
+   "mean": 72.86,
+   "std": 23.17,
+   "reps": 100
+  },
+  "S4 dynamic hybrid": {
+   "mean": 60.33,
+   "std": 34.31,
+   "reps": 120
+  }
+ },
+ "components_ms": {
+  "mqtt_oneway_mean": 2.716,
+  "rest_rtt_mean": 3.496,
+  "fog_compute_mean": 0.0833,
+  "cloud_compute_mean": 12.1228,
+  "live_s3_rtt_mean": 72.61
+ },
+ "labels": "transport+compute [M]; Edge-on-ESP32 inference [I]"
+}

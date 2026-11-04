@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "author": "Equipe-XX (M2 I2A UMBB) - water-network leak Edge node",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-esp32-devkit-c",
+      "id": "esp",
+      "top": 0,
+      "left": 0,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led_alert",
+      "top": -20,
+      "left": 220,
+      "attrs": { "color": "red" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 40,
+      "left": 240,
+      "attrs": { "value": "220" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serial:RX", "", [] ],
+    [ "esp:RX", "$serial:TX", "", [] ],
+    [ "esp:GND.1", "r1:1", "black", [ "h0" ] ],
+    [ "r1:2", "led_alert:A", "green", [ "h0" ] ],
+    [ "led_alert:C", "esp:2", "orange", [ "v0" ] ]
+  ]
+}

@@ -1,0 +1,4 @@
+experiment,model,accuracy,precision,recall,f1,label
+X1,baseline dp-threshold,0.9723,0.9933,0.9541,0.9733,[M]
+X1,RF 8x6 (edge),0.9774,0.9923,0.9649,0.9784,[M]
+X1,C model.h replay (same vectors),0.968,,,,[M]

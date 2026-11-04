@@ -1,0 +1,4 @@
+experiment,scenario,accuracy,latency_ms,bytes_min,mAh_day,label,escalated_windows,escalated_pct
+X11,S1 all-Cloud,0.9774381924079505,see X5,see X6,see X8,[M]/[E],,
+X11,S3 Edge-triggered-Fog,0.9774381924079505,see X5,see X6,see X8,[M]/[E],,
+X11,S4 dynamic hybrid,0.9774381924079505,see X5,see X6,see X8,[M]/[E],2565.0,0.7

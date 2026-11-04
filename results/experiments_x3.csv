@@ -1,0 +1,4 @@
+experiment,platform,inference_us,label
+X3,"PC (x86, sklearn predict)",11833.43,[M]
+X3,ESP32 estimate (ops/240MHz),30.0,[E]
+X3,Wokwi simulator (micros),,[I]

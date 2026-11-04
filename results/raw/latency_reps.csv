@@ -1,0 +1,461 @@
+scenario,rep,latency_ms
+S1 all-Cloud,0,73.394
+S1 all-Cloud,1,16.108
+S1 all-Cloud,2,16.094
+S1 all-Cloud,3,16.359
+S1 all-Cloud,4,16.11
+S1 all-Cloud,5,15.79
+S1 all-Cloud,6,73.121
+S1 all-Cloud,7,15.626
+S1 all-Cloud,8,16.3
+S1 all-Cloud,9,77.123
+S1 all-Cloud,10,15.562
+S1 all-Cloud,11,15.975
+S1 all-Cloud,12,25.568
+S1 all-Cloud,13,16.058
+S1 all-Cloud,14,15.714
+S1 all-Cloud,15,16.733
+S1 all-Cloud,16,15.784
+S1 all-Cloud,17,15.92
+S1 all-Cloud,18,16.07
+S1 all-Cloud,19,16.296
+S1 all-Cloud,20,16.2
+S1 all-Cloud,21,21.525
+S1 all-Cloud,22,16.879
+S1 all-Cloud,23,15.879
+S1 all-Cloud,24,16.007
+S1 all-Cloud,25,16.279
+S1 all-Cloud,26,15.88
+S1 all-Cloud,27,15.599
+S1 all-Cloud,28,15.772
+S1 all-Cloud,29,15.869
+S1 all-Cloud,30,15.84
+S1 all-Cloud,31,16.894
+S1 all-Cloud,32,77.021
+S1 all-Cloud,33,16.446
+S1 all-Cloud,34,16.094
+S1 all-Cloud,35,52.425
+S1 all-Cloud,36,15.992
+S1 all-Cloud,37,15.912
+S1 all-Cloud,38,16.111
+S1 all-Cloud,39,15.696
+S1 all-Cloud,40,18.419
+S1 all-Cloud,41,16.156
+S1 all-Cloud,42,15.906
+S1 all-Cloud,43,16.011
+S1 all-Cloud,44,56.64
+S1 all-Cloud,45,17.453
+S1 all-Cloud,46,16.393
+S1 all-Cloud,47,15.531
+S1 all-Cloud,48,16.613
+S1 all-Cloud,49,16.157
+S1 all-Cloud,50,15.798
+S1 all-Cloud,51,26.092
+S1 all-Cloud,52,19.461
+S1 all-Cloud,53,15.998
+S1 all-Cloud,54,15.925
+S1 all-Cloud,55,35.852
+S1 all-Cloud,56,15.865
+S1 all-Cloud,57,15.664
+S1 all-Cloud,58,15.761
+S1 all-Cloud,59,16.449
+S1 all-Cloud,60,15.682
+S1 all-Cloud,61,16.039
+S1 all-Cloud,62,19.906
+S1 all-Cloud,63,16.179
+S1 all-Cloud,64,16.109
+S1 all-Cloud,65,16.143
+S1 all-Cloud,66,15.702
+S1 all-Cloud,67,21.631
+S1 all-Cloud,68,64.445
+S1 all-Cloud,69,16.775
+S1 all-Cloud,70,16.085
+S1 all-Cloud,71,16.115
+S1 all-Cloud,72,15.823
+S1 all-Cloud,73,15.969
+S1 all-Cloud,74,15.859
+S1 all-Cloud,75,26.654
+S1 all-Cloud,76,24.002
+S1 all-Cloud,77,16.148
+S1 all-Cloud,78,22.524
+S1 all-Cloud,79,15.978
+S1 all-Cloud,80,15.757
+S1 all-Cloud,81,15.993
+S1 all-Cloud,82,16.887
+S1 all-Cloud,83,15.797
+S1 all-Cloud,84,16.187
+S1 all-Cloud,85,16.474
+S1 all-Cloud,86,81.071
+S1 all-Cloud,87,16.167
+S1 all-Cloud,88,16.478
+S1 all-Cloud,89,15.575
+S1 all-Cloud,90,16.627
+S1 all-Cloud,91,15.858
+S1 all-Cloud,92,15.596
+S1 all-Cloud,93,16.167
+S1 all-Cloud,94,15.694
+S1 all-Cloud,95,17.27
+S1 all-Cloud,96,15.99
+S1 all-Cloud,97,16.42
+S1 all-Cloud,98,16.044
+S1 all-Cloud,99,15.868
+S1 all-Cloud,100,15.75
+S1 all-Cloud,101,16.458
+S1 all-Cloud,102,15.724
+S1 all-Cloud,103,16.08
+S1 all-Cloud,104,16.01
+S1 all-Cloud,105,16.419
+S1 all-Cloud,106,15.57
+S1 all-Cloud,107,16.061
+S1 all-Cloud,108,15.961
+S1 all-Cloud,109,15.482
+S1 all-Cloud,110,16.069
+S1 all-Cloud,111,15.746
+S1 all-Cloud,112,16.507
+S1 all-Cloud,113,15.847
+S1 all-Cloud,114,16.08
+S1 all-Cloud,115,15.855
+S1 all-Cloud,116,31.559
+S1 all-Cloud,117,16.214
+S1 all-Cloud,118,16.465
+S1 all-Cloud,119,90.916
+S2 Fog,0,0.667
+S2 Fog,1,0.646
+S2 Fog,2,61.882
+S2 Fog,3,0.899
+S2 Fog,4,0.629
+S2 Fog,5,53.63
+S2 Fog,6,0.764
+S2 Fog,7,0.671
+S2 Fog,8,0.711
+S2 Fog,9,20.427
+S2 Fog,10,0.76
+S2 Fog,11,0.619
+S2 Fog,12,0.874
+S2 Fog,13,0.768
+S2 Fog,14,0.751
+S2 Fog,15,0.58
+S2 Fog,16,0.788
+S2 Fog,17,70.138
+S2 Fog,18,0.989
+S2 Fog,19,0.646
+S2 Fog,20,0.632
+S2 Fog,21,0.828
+S2 Fog,22,0.992
+S2 Fog,23,0.522
+S2 Fog,24,6.264
+S2 Fog,25,0.685
+S2 Fog,26,0.662
+S2 Fog,27,0.643
+S2 Fog,28,0.625
+S2 Fog,29,0.602
+S2 Fog,30,0.977
+S2 Fog,31,3.639
+S2 Fog,32,0.634
+S2 Fog,33,1.048
+S2 Fog,34,0.81
+S2 Fog,35,0.611
+S2 Fog,36,0.646
+S2 Fog,37,0.551
+S2 Fog,38,37.033
+S2 Fog,39,53.63
+S2 Fog,40,0.658
+S2 Fog,41,0.662
+S2 Fog,42,0.922
+S2 Fog,43,0.681
+S2 Fog,44,0.906
+S2 Fog,45,0.525
+S2 Fog,46,2.918
+S2 Fog,47,0.575
+S2 Fog,48,0.57
+S2 Fog,49,0.581
+S2 Fog,50,0.578
+S2 Fog,51,0.839
+S2 Fog,52,0.586
+S2 Fog,53,0.768
+S2 Fog,54,0.585
+S2 Fog,55,0.592
+S2 Fog,56,0.694
+S2 Fog,57,0.906
+S2 Fog,58,0.82
+S2 Fog,59,3.639
+S2 Fog,60,4.457
+S2 Fog,61,0.532
+S2 Fog,62,0.846
+S2 Fog,63,0.521
+S2 Fog,64,0.585
+S2 Fog,65,0.667
+S2 Fog,66,0.611
+S2 Fog,67,0.698
+S2 Fog,68,1.086
+S2 Fog,69,71.604
+S2 Fog,70,0.735
+S2 Fog,71,0.922
+S2 Fog,72,0.747
+S2 Fog,73,0.644
+S2 Fog,74,0.757
+S2 Fog,75,0.751
+S2 Fog,76,0.576
+S2 Fog,77,0.636
+S2 Fog,78,0.525
+S2 Fog,79,0.766
+S2 Fog,80,0.778
+S2 Fog,81,71.604
+S2 Fog,82,0.723
+S2 Fog,83,0.568
+S2 Fog,84,0.792
+S2 Fog,85,0.784
+S2 Fog,86,0.612
+S2 Fog,87,16.167
+S2 Fog,88,0.58
+S2 Fog,89,0.698
+S2 Fog,90,0.585
+S2 Fog,91,6.461
+S2 Fog,92,0.594
+S2 Fog,93,0.536
+S2 Fog,94,0.705
+S2 Fog,95,0.578
+S2 Fog,96,1.156
+S2 Fog,97,0.778
+S2 Fog,98,1.087
+S2 Fog,99,0.586
+S2 Fog,100,0.59
+S2 Fog,101,1.062
+S2 Fog,102,0.614
+S2 Fog,103,0.573
+S2 Fog,104,0.72
+S2 Fog,105,0.575
+S2 Fog,106,5.547
+S2 Fog,107,0.525
+S2 Fog,108,0.76
+S2 Fog,109,2.918
+S2 Fog,110,0.62
+S2 Fog,111,20.427
+S2 Fog,112,0.992
+S2 Fog,113,0.915
+S2 Fog,114,0.919
+S2 Fog,115,5.547
+S2 Fog,116,0.634
+S2 Fog,117,0.549
+S2 Fog,118,61.882
+S2 Fog,119,0.907
+S3 Edge-triggered-Fog,0,35.311
+S3 Edge-triggered-Fog,1,77.165
+S3 Edge-triggered-Fog,2,33.007
+S3 Edge-triggered-Fog,3,77.165
+S3 Edge-triggered-Fog,4,81.071
+S3 Edge-triggered-Fog,5,77.156
+S3 Edge-triggered-Fog,6,77.608
+S3 Edge-triggered-Fog,7,81.287
+S3 Edge-triggered-Fog,8,76.714
+S3 Edge-triggered-Fog,9,75.981
+S3 Edge-triggered-Fog,10,77.57
+S3 Edge-triggered-Fog,11,76.639
+S3 Edge-triggered-Fog,12,41.582
+S3 Edge-triggered-Fog,13,81.118
+S3 Edge-triggered-Fog,14,76.905
+S3 Edge-triggered-Fog,15,77.13
+S3 Edge-triggered-Fog,16,77.188
+S3 Edge-triggered-Fog,17,76.936
+S3 Edge-triggered-Fog,18,81.118
+S3 Edge-triggered-Fog,19,80.76
+S3 Edge-triggered-Fog,20,243.251
+S3 Edge-triggered-Fog,21,77.527
+S3 Edge-triggered-Fog,22,77.718
+S3 Edge-triggered-Fog,23,77.066
+S3 Edge-triggered-Fog,24,76.734
+S3 Edge-triggered-Fog,25,80.87
+S3 Edge-triggered-Fog,26,77.061
+S3 Edge-triggered-Fog,27,73.327
+S3 Edge-triggered-Fog,28,77.165
+S3 Edge-triggered-Fog,29,77.786
+S3 Edge-triggered-Fog,30,76.936
+S3 Edge-triggered-Fog,31,79.37
+S3 Edge-triggered-Fog,32,77.717
+S3 Edge-triggered-Fog,33,77.367
+S3 Edge-triggered-Fog,34,77.286
+S3 Edge-triggered-Fog,35,77.218
+S3 Edge-triggered-Fog,36,77.638
+S3 Edge-triggered-Fog,37,33.506
+S3 Edge-triggered-Fog,38,76.642
+S3 Edge-triggered-Fog,39,81.287
+S3 Edge-triggered-Fog,40,75.318
+S3 Edge-triggered-Fog,41,75.981
+S3 Edge-triggered-Fog,42,76.24
+S3 Edge-triggered-Fog,43,33.154
+S3 Edge-triggered-Fog,44,77.645
+S3 Edge-triggered-Fog,45,76.825
+S3 Edge-triggered-Fog,46,74.425
+S3 Edge-triggered-Fog,47,77.433
+S3 Edge-triggered-Fog,48,77.527
+S3 Edge-triggered-Fog,49,77.358
+S3 Edge-triggered-Fog,50,79.37
+S3 Edge-triggered-Fog,51,33.007
+S3 Edge-triggered-Fog,52,77.6
+S3 Edge-triggered-Fog,53,77.216
+S3 Edge-triggered-Fog,54,77.358
+S3 Edge-triggered-Fog,55,34.923
+S3 Edge-triggered-Fog,56,32.957
+S3 Edge-triggered-Fog,57,80.87
+S3 Edge-triggered-Fog,58,81.342
+S3 Edge-triggered-Fog,59,76.825
+S3 Edge-triggered-Fog,60,77.668
+S3 Edge-triggered-Fog,61,76.118
+S3 Edge-triggered-Fog,62,32.879
+S3 Edge-triggered-Fog,63,76.707
+S3 Edge-triggered-Fog,64,41.582
+S3 Edge-triggered-Fog,65,33.506
+S3 Edge-triggered-Fog,66,75.867
+S3 Edge-triggered-Fog,67,77.802
+S3 Edge-triggered-Fog,68,76.714
+S3 Edge-triggered-Fog,69,77.286
+S3 Edge-triggered-Fog,70,76.955
+S3 Edge-triggered-Fog,71,77.188
+S3 Edge-triggered-Fog,72,77.688
+S3 Edge-triggered-Fog,73,77.216
+S3 Edge-triggered-Fog,74,74.425
+S3 Edge-triggered-Fog,75,80.87
+S3 Edge-triggered-Fog,76,77.742
+S3 Edge-triggered-Fog,77,77.668
+S3 Edge-triggered-Fog,78,76.955
+S3 Edge-triggered-Fog,79,81.844
+S3 Edge-triggered-Fog,80,33.154
+S3 Edge-triggered-Fog,81,81.222
+S3 Edge-triggered-Fog,82,77.216
+S3 Edge-triggered-Fog,83,77.272
+S3 Edge-triggered-Fog,84,76.825
+S3 Edge-triggered-Fog,85,76.639
+S3 Edge-triggered-Fog,86,81.287
+S3 Edge-triggered-Fog,87,34.073
+S3 Edge-triggered-Fog,88,77.253
+S3 Edge-triggered-Fog,89,76.642
+S3 Edge-triggered-Fog,90,32.957
+S3 Edge-triggered-Fog,91,77.668
+S3 Edge-triggered-Fog,92,77.645
+S3 Edge-triggered-Fog,93,76.714
+S3 Edge-triggered-Fog,94,77.367
+S3 Edge-triggered-Fog,95,73.574
+S3 Edge-triggered-Fog,96,77.433
+S3 Edge-triggered-Fog,97,77.613
+S3 Edge-triggered-Fog,98,35.311
+S3 Edge-triggered-Fog,99,76.997
+S4 dynamic hybrid,0,35.311
+S4 dynamic hybrid,1,77.165
+S4 dynamic hybrid,2,33.007
+S4 dynamic hybrid,3,77.165
+S4 dynamic hybrid,4,81.071
+S4 dynamic hybrid,5,77.156
+S4 dynamic hybrid,6,77.608
+S4 dynamic hybrid,7,81.287
+S4 dynamic hybrid,8,76.714
+S4 dynamic hybrid,9,75.981
+S4 dynamic hybrid,10,77.57
+S4 dynamic hybrid,11,76.639
+S4 dynamic hybrid,12,41.582
+S4 dynamic hybrid,13,81.118
+S4 dynamic hybrid,14,76.905
+S4 dynamic hybrid,15,77.13
+S4 dynamic hybrid,16,77.188
+S4 dynamic hybrid,17,76.936
+S4 dynamic hybrid,18,81.118
+S4 dynamic hybrid,19,80.76
+S4 dynamic hybrid,20,243.251
+S4 dynamic hybrid,21,77.527
+S4 dynamic hybrid,22,77.718
+S4 dynamic hybrid,23,77.066
+S4 dynamic hybrid,24,76.734
+S4 dynamic hybrid,25,80.87
+S4 dynamic hybrid,26,77.061
+S4 dynamic hybrid,27,73.327
+S4 dynamic hybrid,28,77.165
+S4 dynamic hybrid,29,77.786
+S4 dynamic hybrid,30,76.936
+S4 dynamic hybrid,31,79.37
+S4 dynamic hybrid,32,77.717
+S4 dynamic hybrid,33,77.367
+S4 dynamic hybrid,34,77.286
+S4 dynamic hybrid,35,77.218
+S4 dynamic hybrid,36,77.638
+S4 dynamic hybrid,37,33.506
+S4 dynamic hybrid,38,76.642
+S4 dynamic hybrid,39,81.287
+S4 dynamic hybrid,40,75.318
+S4 dynamic hybrid,41,75.981
+S4 dynamic hybrid,42,76.24
+S4 dynamic hybrid,43,33.154
+S4 dynamic hybrid,44,77.645
+S4 dynamic hybrid,45,76.825
+S4 dynamic hybrid,46,74.425
+S4 dynamic hybrid,47,77.433
+S4 dynamic hybrid,48,77.527
+S4 dynamic hybrid,49,77.358
+S4 dynamic hybrid,50,79.37
+S4 dynamic hybrid,51,33.007
+S4 dynamic hybrid,52,77.6
+S4 dynamic hybrid,53,77.216
+S4 dynamic hybrid,54,77.358
+S4 dynamic hybrid,55,34.923
+S4 dynamic hybrid,56,32.957
+S4 dynamic hybrid,57,80.87
+S4 dynamic hybrid,58,81.342
+S4 dynamic hybrid,59,76.825
+S4 dynamic hybrid,60,77.668
+S4 dynamic hybrid,61,76.118
+S4 dynamic hybrid,62,32.879
+S4 dynamic hybrid,63,76.707
+S4 dynamic hybrid,64,41.582
+S4 dynamic hybrid,65,33.506
+S4 dynamic hybrid,66,75.867
+S4 dynamic hybrid,67,77.802
+S4 dynamic hybrid,68,76.714
+S4 dynamic hybrid,69,77.286
+S4 dynamic hybrid,70,76.955
+S4 dynamic hybrid,71,77.188
+S4 dynamic hybrid,72,77.688
+S4 dynamic hybrid,73,77.216
+S4 dynamic hybrid,74,74.425
+S4 dynamic hybrid,75,80.87
+S4 dynamic hybrid,76,77.742
+S4 dynamic hybrid,77,77.668
+S4 dynamic hybrid,78,76.955
+S4 dynamic hybrid,79,81.844
+S4 dynamic hybrid,80,33.154
+S4 dynamic hybrid,81,81.222
+S4 dynamic hybrid,82,77.216
+S4 dynamic hybrid,83,77.272
+S4 dynamic hybrid,84,76.825
+S4 dynamic hybrid,85,76.639
+S4 dynamic hybrid,86,81.287
+S4 dynamic hybrid,87,34.073
+S4 dynamic hybrid,88,77.253
+S4 dynamic hybrid,89,76.642
+S4 dynamic hybrid,90,32.957
+S4 dynamic hybrid,91,77.668
+S4 dynamic hybrid,92,77.645
+S4 dynamic hybrid,93,76.714
+S4 dynamic hybrid,94,77.367
+S4 dynamic hybrid,95,73.574
+S4 dynamic hybrid,96,0.667
+S4 dynamic hybrid,97,0.646
+S4 dynamic hybrid,98,61.882
+S4 dynamic hybrid,99,0.899
+S4 dynamic hybrid,100,0.629
+S4 dynamic hybrid,101,53.63
+S4 dynamic hybrid,102,0.764
+S4 dynamic hybrid,103,0.671
+S4 dynamic hybrid,104,0.711
+S4 dynamic hybrid,105,20.427
+S4 dynamic hybrid,106,0.76
+S4 dynamic hybrid,107,0.619
+S4 dynamic hybrid,108,0.874
+S4 dynamic hybrid,109,0.768
+S4 dynamic hybrid,110,0.751
+S4 dynamic hybrid,111,0.58
+S4 dynamic hybrid,112,0.788
+S4 dynamic hybrid,113,70.138
+S4 dynamic hybrid,114,0.989
+S4 dynamic hybrid,115,0.646
+S4 dynamic hybrid,116,0.632
+S4 dynamic hybrid,117,0.828
+S4 dynamic hybrid,118,0.992
+S4 dynamic hybrid,119,0.522

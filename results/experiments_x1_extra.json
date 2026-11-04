@@ -1,0 +1,18 @@
+{
+ "replay": {
+  "n_samples": 500,
+  "n_pos": 250,
+  "n_neg": 250,
+  "replay_accuracy": 0.968
+ },
+ "consistency": {
+  "n_samples": 500,
+  "sklearn_accuracy_vs_labels": 0.968,
+  "c_model_accuracy_vs_labels": 0.968,
+  "pc_vs_c_mismatches": 0,
+  "consistent": true,
+  "max_conf_diff_hard_votes": 0.0,
+  "note": "C confidence = tree hard-vote fraction; sklearn predict_proba = soft leaf fraction (documented difference)"
+ },
+ "note": "Wokwi serial 'Accuracy on the Edge' pasted in 03_Simulation/logs by the human"
+}

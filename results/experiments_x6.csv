@@ -1,0 +1,4 @@
+experiment,scenario,msg_bytes,msgs_per_min,bytes_per_min,label
+X6,S1 all-Cloud,176,0.2,35.2,[M]
+X6,S2 Fog,176,0.2,35.2,[M]
+X6,S3 Edge-triggered-Fog,119,0.06666666666666667,7.9,[M]
